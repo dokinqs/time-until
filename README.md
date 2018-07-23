@@ -1,6 +1,4 @@
-# time-until
-
-"Year 2038 Problem"
+# "Year 2038 Problem"
 
 32-bit Unix Time Overflow
 
